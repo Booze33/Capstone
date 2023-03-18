@@ -74,7 +74,7 @@
 ## Live Demo <a name="live-demo"></a>
 
 
--[Live Demo Link](https://booze33.github.io/Fitness-capstone/)
+-[Live Demo Link]( https://booze33.github.io/Capstone/)
 
 <!-- Features -->
 

@@ -251,6 +251,12 @@
     margin-left: 3rem;
   }
 
+  .about-top h4 {
+    font-size: 40px;
+    font-family: var(--font-family);
+    color: #ec5242;
+  }
+
   .big-box .inner-box h4 {
     color: #ec5242;
     font-size: 20px;
@@ -368,7 +374,7 @@
   }
 
   footer {
-    padding: 3rem 3rem 3rem 6rem;
+    padding: 3rem 3rem 3rem 8rem;
     height: 6rem;
     display: flex;
   }
@@ -381,12 +387,6 @@
     display: grid;
     place-items: center;
     padding-top: 1rem;
-  }
-
-  .about-top h4 {
-    font-size: 40px;
-    font-family: var(--font-family);
-    color: #ec5242;
   }
 
   .b-2 {

@@ -181,7 +181,7 @@ I would like to thank... [Cindy Shin](https://www.behance.net/adagio07) for the 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [GNU](https://github.com/Booze33/Capstone/blob/set-up/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

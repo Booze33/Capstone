@@ -188,7 +188,7 @@ This project is [MIT](./LICENSE) licensed.
 
 ### Video
 
-- Here is a video on my work [video link](https://www.loom.com/share/e3a39844cdb74ca2913288f49d8cb80e)
+- Here is a video on my work [video link](https://www.loom.com/share/5c23ab16e3864061a4c110176890c96c)
 
 ## Original design
 

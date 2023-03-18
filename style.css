@@ -1,5 +1,5 @@
 :root {
-    --font-family: 'Lato', sans-serif;
+  --font-family: 'Lato', sans-serif;
 }
 
 @media screen and (min-width: 768px) {
@@ -108,7 +108,7 @@
   .click {
     text-decoration: none;
     color: #272a31;
-}
+  }
 
   .click:hover {
     color: #ec5242;

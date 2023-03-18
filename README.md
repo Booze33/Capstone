@@ -36,10 +36,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio: Mobile setup] <a name="about-project"></a>
+# 📖 [Capstone: Html-JavaScript capstone] <a name="about-project"></a>
 
 
-**[Portfolio: Mobile setup]** is a project for week 1.
+**[Capstone: Html-JavaScript capstone]** is a project for week 1.
 
 ## 🛠 Built With <a name="built-with"></a>
 
